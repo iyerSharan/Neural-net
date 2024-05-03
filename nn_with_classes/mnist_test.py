@@ -1,3 +1,5 @@
+# author: https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+
 import numpy as np
 from network import Network
 from fclayer import FCLayer
